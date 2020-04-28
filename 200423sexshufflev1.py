@@ -9,6 +9,6 @@ for act in scene1:
 print("Orgasm happend during " + random.choice(scene1))
 print("Scene 2")
 scene2=sex_acts[4:8]
-for sex_acts2 in scene2:
-    print(sex_acts2)
+for act in scene2:
+    print(act)
 print("Orgasm happend during " + random.choice(scene2))
